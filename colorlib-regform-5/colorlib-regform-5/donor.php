@@ -12,7 +12,7 @@ session_start();
 <html lang="en">
 
 <head>
-    <!-- Required meta tags-->
+    <!-- Required  much meta tags-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Colorlib Templates">
@@ -20,7 +20,7 @@ session_start();
     <meta name="keywords" content="Colorlib Templates">
 
     <!-- Title Page-->
-    <title>UNITE</title>
+    <title>Team Unite</title>
 
     <!-- Icons font CSS-->
     <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
